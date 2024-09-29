@@ -1,3 +1,5 @@
+import "../css/2-form.css";
+
 const storageItemName = "feedback-form-state";
 
 let formData = {
